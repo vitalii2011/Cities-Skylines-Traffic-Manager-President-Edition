@@ -63,7 +63,7 @@ Settings_are_defined_for_each_savegame_separately Настройки для ка
 Simulation_accuracy Точность моделирования (высокое значение снижает производительность)
 Enable_highway_specific_lane_merging/splitting_rules Включить особые правила шоссе слияние/пересечение полос
 Drivers_want_to_change_lanes_(only_applied_if_Advanced_AI_is_enabled): Водителям нравится менять полосы (только при продвинутом AI):
-Maintenance Обслуживание
+Maintenance Инструменты
 Very_often Очень часто
 Often Часто
 Sometimes Иногда
