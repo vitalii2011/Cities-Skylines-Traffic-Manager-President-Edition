@@ -61,7 +61,7 @@ Reckless_driving Опасное вождение
 TMPE_Title Traffic Manager: President Edition
 Settings_are_defined_for_each_savegame_separately Настройки для каждого сохранения свои
 Simulation_accuracy Точность моделирования (высокое значение снижает производительность)
-Enable_highway_specific_lane_merging/splitting_rules Включить особые правила шоссе слияние/пересечение полос
+Enable_highway_specific_lane_merging/splitting_rules Включить особые правила слияния/пересечения полос на шоссе
 Drivers_want_to_change_lanes_(only_applied_if_Advanced_AI_is_enabled): Водителям нравится менять полосы (только при продвинутом AI):
 Maintenance Обслуживание
 Very_often Очень часто
